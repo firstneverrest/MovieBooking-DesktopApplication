@@ -1,0 +1,16 @@
+# production
+/build
+
+# testing
+/test
+
+# other files
+/nbproject
+build.xml
+EditTheater1.txt
+EditTheater2.txt
+EditTheater3.txt
+seat1.txt
+seat2.txt
+seat3.txt
+manifest.mf

@@ -1,0 +1,28 @@
+﻿******** Ticket ********
+Movie title : Avengers Endgame
+Theater : Theater1
+Show time : 12.45
+Seat No. : B5    Seat Type : Special
+Price : 200 baht
+************************
+******** Ticket ********
+Movie title : Avengers Endgame
+Theater : Theater1
+Show time : 12.45
+Seat No. : F2    Seat Type : Normal
+Price : 150 baht
+************************
+******** Ticket ********
+Movie title : Avengers Endgame
+Theater : Theater1
+Show time : 12.45
+Seat No. : D10    Seat Type : Normal
+Price : 150 baht
+************************
+******** Ticket ********
+Movie title : Avengers Endgame
+Theater : Theater1
+Show time : 12.45
+Seat No. : C15    Seat Type : Normal
+Price : 150
+************************
