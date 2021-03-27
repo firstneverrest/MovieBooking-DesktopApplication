@@ -1,6 +1,4 @@
-
 package movietheater;
-
 
 public class Starter {
     public static startPage start = new startPage();
