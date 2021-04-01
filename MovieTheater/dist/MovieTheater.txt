@@ -1,0 +1,14 @@
+******** Ticket ********
+Movie title : Avengers Endgame
+Theater : Theater1
+Show time : 10.00
+Seat No. : E8    Seat Type : Normal
+Price : 150
+************************
+******** Ticket ********
+Movie title : Avengers Endgame
+Theater : Theater1
+Show time : 10.00
+Seat No. : D6    Seat Type : Normal
+Price : 150
+************************
